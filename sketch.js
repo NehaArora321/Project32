@@ -178,5 +178,5 @@ async function getBackColor(){
   else{
     backcolor="green";
   }
- // console.log(backcolor);
+  console.log(backcolor);
 }
